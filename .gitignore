@@ -1,0 +1,13 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+*.ipynb_checkpoints/
+
+# Ignore dataset (don’t upload CSVs by default)
+data/*.csv
+
+# Ignore virtual environment folders
+venv/
+.env/
