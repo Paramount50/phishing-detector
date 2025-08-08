@@ -26,7 +26,7 @@ st.set_page_config(page_title="Phishing Email Detector", page_icon="🤓👆")
 st.title("Phishing Email Detector 🤓👆")
 st.write("Paste an email below and check if it's Phishing or Legit!")
 
-user_input = st.text_area("Email Text 👀:", height=200)
+user_input = st.text_area("Email Text 👀:", height=350)
 
 if st.button("Check Email 🤔"):
     if user_input.strip() == "":
