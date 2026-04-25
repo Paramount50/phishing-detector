@@ -1,4 +1,4 @@
-# Phishing Email Detector 🤓👆
+# Phishing Email Detector 
 
 This project is a machine learning tool built to classify emails as either Phishing or Legit.
 
